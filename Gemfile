@@ -62,3 +62,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "ros-apartment", "~> 2.7", require: 'apartment'
+
+gem "friendly_id", "~> 5.3"
+
+gem "factory_bot_rails", "~> 6.1"
